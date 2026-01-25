@@ -7,4 +7,4 @@ This is my first attemt at a custom mechanical keyboard so i though it would be 
 <img width="1180" height="560" alt="image" src="https://github.com/user-attachments/assets/e528dc46-24ac-41ec-8ae0-7e457d398d5a" />
 <img width="1073" height="458" alt="image" src="https://github.com/user-attachments/assets/205553e2-05b8-4c1b-b04f-6110dc000048" />
 <img width="1049" height="271" alt="image" src="https://github.com/user-attachments/assets/eef43d68-7367-4ae4-adf5-95c1569be082" />
-<img width="1411" height="282" alt="image" src="https://github.com/user-attachments/assets/fcfec7c6-d58b-46f7-84f7-474d4c732199" />
+<img width="995" height="158" alt="image" src="https://github.com/user-attachments/assets/4fdbe67f-f22e-4136-90ab-28d44fd7bc52" />
